@@ -3,7 +3,7 @@
 <h1 align="center"></h1>
 
 
-Know us ? We're separate from what we actually are . Don't fret . This is an account purely to show off our interest and introduce ourselves .
+<h5 align="center">Know us ? We're separate from what we actually are . Don't fret . This is an account purely to show off our interest and introduce ourselves .</h5>
 
 <h6 align="center">We're open to c+h if you need it ! May be wary of interactions , sorry in advance .</h6>
 
