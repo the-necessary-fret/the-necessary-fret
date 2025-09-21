@@ -1,4 +1,4 @@
-## ANONYMOUS / BOOMIE
+## <h3 align="center">ANONYMOUS / BOOMIE</h3>
 
 <!--
 **the-necessary-fret/the-necessary-fret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
