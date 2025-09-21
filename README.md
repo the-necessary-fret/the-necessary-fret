@@ -1,5 +1,5 @@
 ## <h3 align="center">ANONYMOUS / BOOMIE</h3>
-<h3 align="center">Not much else to enlighten upon.</h3>
+<h6 align="center">Not much else to enlighten upon .</h6>
 
 <!--
 **the-necessary-fret/the-necessary-fret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
