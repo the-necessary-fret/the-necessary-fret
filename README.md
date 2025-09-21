@@ -5,6 +5,10 @@
 
 Know us ? We're separate from what we actually are . Don't fret . This is an account purely to show off our interest and introduce ourselves .
 
-<h3>boomie</h3>
+<h6 align="center">We're open to c+h if you need it ! May be wary of interactions , sorry in advance .</h6>
 
-![App Screenshot](https://i.pinimg.com/736x/9a/78/8e/9a788ef0a10edebfb88fdbf22b88af4c.jpg)
+<h3  align="center">boomie</h3>
+<p align="center">
+    <img src="https://i.pinimg.com/736x/9a/78/8e/9a788ef0a10edebfb88fdbf22b88af4c.jpg" >
+</p>
+<h6 align="center">this guy is in so many smps we get lost sometimes</h6>
