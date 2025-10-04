@@ -11,9 +11,8 @@
 
 <h6 align="center">We're open to c+h if you need it ! May be wary of interactions , sorry in advance .</h6>
 
-<h3  align="center">boomie</h3>
 <p align="center">
-    <img src="https://i.pinimg.com/736x/9a/78/8e/9a788ef0a10edebfb88fdbf22b88af4c.jpg" >
+    <img src="https://file.garden/Zub7-rGXMH8X3y-W/shifty%20boomie.webp" >
 </p>
 <h6 align="center">this guy is in so many smps we get lost sometimes</h6>
 <h6 align="center">full disclaimer , i am NOT boomie .
